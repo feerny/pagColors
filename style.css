@@ -215,7 +215,7 @@ button:hover{
 
 @media (max-width: 600px)  {
 
-  .select {
+.select {
    font-size: 0.8rem;
     width: 9rem;
 }
@@ -226,16 +226,20 @@ button:hover{
 
 .boton-oscuro{
   height: 2rem;
+  width: 10rem;
 }
 .boton-oscuro:hover{
   height: 2rem;
+  width: 10rem;
 }
 
 .boton-claro{
   height: 2rem;
+  width: 10rem;
 }
 .boton-claro:hover{
   height: 2rem;
+  width: 10rem;
 }
 
   
